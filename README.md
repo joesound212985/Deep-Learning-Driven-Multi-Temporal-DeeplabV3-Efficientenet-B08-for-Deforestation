@@ -27,6 +27,7 @@ Figure3: Comparsion of Image and Overlay.
 
 Citations:
 1. Bragagnolo L, da Silva RV, Grzybowski JMV. Amazon and Atlantic Forest image datasets for semantic segmentation [Data set]. Zenodo; 2021. Available from: https://doi.org/10.5281/zenodo.4498086
+
 2.Model and dataset for multi-spectral detection of forest fires on board satellites. In: National Conference on Artificial Intelligence (CNIA 2022); 2022 Jun; Saint-Étienne, France. ffhal-03866412.
 Link to download of dataset: https://www.actuia.com/en/news/ciar-project-deep-learning-to-detect-forest-fires-from-satellites/
 
