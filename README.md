@@ -5,3 +5,8 @@ In addition, we have did a comparsion to other models, DeepLabV3+/ResNeXt101, UN
 The e12best is the script used to analysis of the deforestation datset, and e12bestv2 is for preloading the images in RAM to reduce training time.
 The fire16.py is for the forest fire training.
 
+![image](https://github.com/user-attachments/assets/312999d1-7dee-46e8-8b51-6043e400dab8)
+
+
+![image](https://github.com/user-attachments/assets/a0bf72bf-c740-41d3-8efa-036de36a13ee)
+![image](https://github.com/user-attachments/assets/41098dd6-c755-485c-851d-272de0a3cc04)
