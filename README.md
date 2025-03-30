@@ -7,7 +7,13 @@ The fire16.py is for the forest fire training.
 
 ![image](https://github.com/user-attachments/assets/312999d1-7dee-46e8-8b51-6043e400dab8)
 
- Figure1: illustrates a comprehensive pipeline that begins with a training dataset containing paired satellite images and their corresponding ground truth labels. These labels are represented as binary masks where deforested areas are clearly highlighted. The architecture demonstrates the systematic process through which the neural network processes input satellite imagery using an encoder-decoder structure, denoted as f(x;θ), to generate predictions. A crucial component of this system is the error feedback loop that continuously compares predictions against target labels, enabling the model to update its parameters (θ) through iterative training to improve accuracy over time
+ Figure1: illustrates a comprehensive pipeline that begins with a training dataset containing paired satellite images and their corresponding ground truth labels. These labels are represented as binary masks where deforested areas are clearly highlighted. The architecture demonstrates the systematic process through which the neural network processes input satellite imagery using an encoder-decoder structure, denoted as f(x;θ), to generate predictions. A crucial component of this system is the error feedback loop that continuously compares predictions against target labels, enabling the model to update its parameters (θ) through iterative training to improve accuracy over time.
+
+
+
+
+
+ 
 
 
 ![image](https://github.com/user-attachments/assets/a0bf72bf-c740-41d3-8efa-036de36a13ee)
